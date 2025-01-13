@@ -50,5 +50,6 @@ A shell script to compress logs from a specified directory into a `tar.gz` file,
   chmod +x log_archiver.sh
   
 - For scheduled archiving, add it to a cron job.
+#### Project Link
 
-Enjoy simplified log archiving! 😊
+For more details, visit the project page: [Log Archiver Tool](https://roadmap.sh/projects/log-archive-tool)
