@@ -32,8 +32,8 @@ Enable Verbose Mode:
 - Log File: Details logged in `archives/archive_log.txt`.
 
 #### Requirements
-- `bash`
-- `tar`
+- `bash` **check the version:  bash -v**
+- `tar`  **check the version:  tar --version**
   
 #### NOTE:
 - "/path/to/archives" is created by script, log files path needed to be given.
