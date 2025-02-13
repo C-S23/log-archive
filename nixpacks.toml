@@ -3,7 +3,7 @@ aptPkgs = ["wget", "dpkg", "python3"]
 
 [phases.build]
 cmds = [
-  "wget -O mypackage.deb https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO/main/mypackage.deb"
+  "wget -O mypackage.deb https://raw.githubusercontent.com/C-S23/log-archiveTool/main/mypackage.deb"
 ]
 
 [phases.start]
